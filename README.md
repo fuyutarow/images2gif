@@ -1,3 +1,3 @@
 # images2gif
 
-Python 3 compatible images2gif.py
+Support for Python 3.5+
